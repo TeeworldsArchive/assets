@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="256"
+   height="64"
+   viewBox="0 0 67.733334 16.933334"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   sodipodi:docname="ARCHIVE.svg"
+   inkscape:export-filename="lastday.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.8685849"
+     inkscape:cx="51.910941"
+     inkscape:cy="104.35705"
+     inkscape:window-width="1920"
+     inkscape:window-height="1052"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4"
+       inkscape:label="g2"
+       style="display:inline;fill:none;stroke:#323232;stroke-width:1.85208;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+       transform="translate(0.16853202)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;line-height:1;font-family:'Know Your Product';-inkscape-font-specification:'Know Your Product';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:none;fill-opacity:1;stroke:#323232;stroke-width:1.85208;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="7.3566566"
+         y="11.928405"
+         id="text3"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           style="fill:none;fill-opacity:1;stroke:#323232;stroke-width:1.85208;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           x="7.3566566"
+           y="11.928405">Archive</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;line-height:1;font-family:'Know Your Product';-inkscape-font-specification:'Know Your Product';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;mix-blend-mode:normal;fill:none;fill-opacity:1;stroke:#323232;stroke-width:1.85208;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         x="7.0195928"
+         y="12.284642"
+         id="text4"><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           style="fill:none;fill-opacity:1;stroke:#323232;stroke-width:1.85208;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-opacity:1"
+           x="7.0195928"
+           y="12.284642">aRCHIVE</tspan></text>
+    </g>
+    <g
+       id="g2"
+       inkscape:label="g2"
+       style="display:inline"
+       transform="translate(0.16853202)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;line-height:1;font-family:'Know Your Product';-inkscape-font-specification:'Know Your Product';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;display:inline;mix-blend-mode:normal;fill:#646464;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-opacity:1;paint-order:stroke fill markers"
+         x="7.0195928"
+         y="12.284642"
+         id="text2"><tspan
+           sodipodi:role="line"
+           id="tspan2"
+           style="fill:#646464;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-opacity:1"
+           x="7.0195928"
+           y="12.284642">archive</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.525px;line-height:1;font-family:'Know Your Product';-inkscape-font-specification:'Know Your Product';letter-spacing:0px;writing-mode:lr-tb;direction:ltr;fill:#dedede;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-opacity:1;paint-order:stroke fill markers"
+         x="7.3566566"
+         y="11.928405"
+         id="text1"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="fill:#dedede;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-opacity:1"
+           x="7.3566566"
+           y="11.928405">Archive</tspan></text>
+    </g>
+  </g>
+</svg>
